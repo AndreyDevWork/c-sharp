@@ -1,9 +1,12 @@
-﻿namespace c_sharp
+﻿using System;
+
+namespace c_sharp
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
+            Console.WriteLine("Hello, World");
         }
     }
 }
